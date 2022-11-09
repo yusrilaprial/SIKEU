@@ -1,0 +1,282 @@
+[2019-03-11:11:37:52] Nama Admin : saiful => Edit Hutang => 17 => Sukses 
+
+[2022-15-04:03:50:50] Nama Admin : M Yusril Aprial => Edit Hutang => 8 => Sukses 
+
+[2022-18-04:02:50:49] Nama Admin : M Yusril Aprial => Edit Pemasukan => 31 => Sukses Edit
+
+[2022-05-06:10:51:22] Nama Admin : M Yusril Aprial => Edit Hutang => 14 => Sukses 
+
+[2022-11-06:04:49:33] Nama Admin : Yusril => Edit Hutang => 4 => Sukses 
+
+[2022-11-06:05:57:46] Nama Admin : Yusril => Edit Pemasukan => 2 => Sukses Edit
+
+[2022-11-06:05:59:39] Nama Admin : Yusril => Edit Pemasukan => 2 => Sukses Edit
+
+[2022-11-06:05:59:51] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-15-06:07:10:17] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-15-06:07:14:39] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-15-06:07:18:00] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-15-06:08:12:46] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-15-06:08:12:55] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-15-06:08:33:19] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-15-06:08:33:36] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-15-06:08:55:06] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-15-06:08:55:13] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:13:35] Nama Admin : Yusril => Edit Pemasukan => 3 => Sukses Edit
+
+[2022-04-07:02:15:35] Nama Admin : Yusril => Edit Pemasukan => 3 => Sukses Edit
+
+[2022-04-07:02:15:46] Nama Admin : Yusril => Edit Pemasukan => 3 => Sukses Edit
+
+[2022-04-07:02:16:42] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:16:57] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:17:40] Nama Admin : Yusril => Edit Pemasukan => 2 => Sukses Edit
+
+[2022-04-07:02:17:59] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:18:17] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:18:46] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:19:47] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:19:57] Nama Admin : Yusril => Edit Pemasukan => 2 => Sukses Edit
+
+[2022-04-07:02:20:54] Nama Admin : Yusril => Edit Pemasukan => 3 => Sukses Edit
+
+[2022-04-07:02:21:25] Nama Admin : Yusril => Edit Pemasukan => 4 => Sukses Edit
+
+[2022-04-07:02:22:48] Nama Admin : Yusril => Edit Pemasukan => 5 => Sukses Edit
+
+[2022-04-07:02:23:09] Nama Admin : Yusril => Edit Pemasukan => 6 => Sukses Edit
+
+[2022-04-07:02:23:48] Nama Admin : Yusril => Edit Pemasukan => 5 => Sukses Edit
+
+[2022-04-07:02:24:36] Nama Admin : Yusril => Edit Pemasukan => 5 => Sukses Edit
+
+[2022-04-07:02:25:38] Nama Admin : Yusril => Edit Pemasukan => 4 => Sukses Edit
+
+[2022-04-07:02:25:48] Nama Admin : Yusril => Edit Pemasukan => 3 => Sukses Edit
+
+[2022-04-07:02:25:56] Nama Admin : Yusril => Edit Pemasukan => 2 => Sukses Edit
+
+[2022-04-07:02:26:01] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:26:12] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:31:01] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:49:22] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:02:51:15] Nama Admin : Yusril => Edit Pemasukan => 2 => Sukses Edit
+
+[2022-04-07:02:51:23] Nama Admin : Yusril => Edit Pemasukan => 2 => Sukses Edit
+
+[2022-04-07:02:51:33] Nama Admin : Yusril => Edit Pemasukan => 3 => Sukses Edit
+
+[2022-04-07:02:51:42] Nama Admin : Yusril => Edit Pemasukan => 4 => Sukses Edit
+
+[2022-04-07:02:51:56] Nama Admin : Yusril => Edit Pemasukan => 5 => Sukses Edit
+
+[2022-04-07:02:57:24] Nama Admin : Yusril => Edit Pemasukan => 5 => Sukses Edit
+
+[2022-04-07:03:00:49] Nama Admin : Yusril => Edit Hutang => 1 => Sukses 
+
+[2022-04-07:03:01:47] Nama Admin : Yusril => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-04-07:03:17:17] Nama Admin : Yusril => Edit Pemasukan => 4 => Sukses Edit
+
+[2022-04-07:03:18:02] Nama Admin : Yusril => Edit Pemasukan => 2 => Sukses Edit
+
+[2022-04-07:03:18:10] Nama Admin : Yusril => Edit Pemasukan => 3 => Sukses Edit
+
+[2022-04-07:03:18:17] Nama Admin : Yusril => Edit Pemasukan => 4 => Sukses Edit
+
+[2022-04-07:03:18:26] Nama Admin : Yusril => Edit Pemasukan => 5 => Sukses Edit
+
+[2022-04-07:03:18:36] Nama Admin : Yusril => Edit Pemasukan => 7 => Sukses Edit
+
+[2022-04-07:03:18:46] Nama Admin : Yusril => Edit Pemasukan => 8 => Sukses Edit
+
+[2022-04-07:03:18:54] Nama Admin : Yusril => Edit Pemasukan => 9 => Sukses Edit
+
+[2022-04-07:03:19:48] Nama Admin : Yusril => Edit Pemasukan => 9 => Sukses Edit
+
+[2022-04-07:03:20:00] Nama Admin : Yusril => Edit Pemasukan => 10 => Sukses Edit
+
+[2022-04-07:03:21:33] Nama Admin : Yusril => Edit Hutang => 1 => Sukses 
+
+[2022-04-07:11:31:22] Nama Admin : Yanto => Edit Pemasukan => 11 => Sukses Edit
+
+[2022-04-07:11:36:29] Nama Admin : Yanto => Edit Hutang => 1 => Sukses 
+
+[2022-09-07:14:59:31] Nama Admin : Yusril => Edit Hutang => 4 => Sukses 
+
+[2022-13-07:17:08:54] Nama Admin : Yusril => Edit Pemasukan => 12 => Sukses Edit
+
+[2022-13-07:17:09:15] Nama Admin : Yusril => Edit Pemasukan => 12 => Sukses Edit
+
+[2022-13-07:17:09:51] Nama Admin : Yusril => Edit Pemasukan => 12 => Sukses Edit
+
+[2022-13-07:17:11:03] Nama Admin : Yusril => Edit Pemasukan => 19 => Sukses Edit
+
+[2022-17-07:06:35:03] Nama Admin : Yusril => Edit Hutang => 4 => Sukses 
+
+[2022-17-07:06:48:47] Nama Admin : Yusril => Edit Hutang => 3 => Sukses 
+
+[2022-17-07:08:54:06] Nama Admin : Yusril => Edit Hutang => 1 => Sukses 
+
+[2022-17-07:08:54:34] Nama Admin : Yusril => Edit Hutang => 1 => Sukses 
+
+[2022-17-07:08:58:16] Nama Admin : Yusril => Edit Hutang => 1 => Sukses 
+
+[2022-17-07:10:05:23] Nama Admin : Yusril => Edit Hutang => 5 => Sukses 
+
+[2022-17-07:11:12:55] Nama Admin : Yusril => Edit Hutang => 5 => Sukses 
+
+[2022-17-07:11:32:36] Nama Admin : Yusril => Edit Pemasukan => 10 => Sukses Edit
+
+[2022-17-07:12:40:34] Nama Admin : Yusril => Edit Pemasukan => 20 => Sukses Edit
+
+[2022-17-07:12:46:54] Nama Admin : Yusril => Edit Pemasukan => 20 => Sukses Edit
+
+[2022-17-07:12:53:20] Nama Admin : Yusril => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-17-07:12:53:31] Nama Admin : Yusril => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-17-07:12:53:45] Nama Admin : Yusril => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-17-07:13:10:05] Nama Admin : Yusril => Edit Pemasukan => 20 => Sukses Edit
+
+[2022-17-07:13:28:31] Nama Admin : Yusril => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-17-07:13:28:43] Nama Admin : Yusril => Edit Pemasukan => 20 => Sukses Edit
+
+[2022-17-07:13:30:31] Nama Admin : Yusril => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-17-07:13:31:01] Nama Admin : Yusril => Edit Pemasukan => 10 => Sukses Edit
+
+[2022-17-07:13:39:16] Nama Admin : Yusril => Edit Pemasukan => 20 => Sukses Edit
+
+[2022-17-07:14:00:37] Nama Admin : Yusril => Edit Pemasukan => 19 => Sukses Edit
+
+[2022-17-07:14:01:51] Nama Admin : Yusril => Edit Pemasukan => 13 => Sukses Edit
+
+[2022-17-07:14:02:22] Nama Admin : Yusril => Edit Pemasukan => 12 => Sukses Edit
+
+[2022-17-07:14:12:48] Nama Admin : Yusril => Edit Pemasukan => 10 => Sukses Edit
+
+[2022-17-07:14:12:59] Nama Admin : Yusril => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-17-07:14:13:16] Nama Admin : Yusril => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-17-07:14:22:42] Nama Admin : Yusril => Edit Pemasukan => 9 => Sukses Edit
+
+[2022-17-07:14:22:57] Nama Admin : Yusril => Edit Pemasukan => 13 => Sukses Edit
+
+[2022-17-07:14:23:40] Nama Admin : Yusril => Edit Pemasukan => 13 => Sukses Edit
+
+[2022-17-07:14:23:54] Nama Admin : Yusril => Edit Pemasukan => 13 => Sukses Edit
+
+[2022-17-07:14:24:08] Nama Admin : Yusril => Edit Pemasukan => 8 => Sukses Edit
+
+[2022-17-07:14:24:52] Nama Admin : Yusril => Edit Pemasukan => 13 => Sukses Edit
+
+[2022-17-07:14:27:52] Nama Admin : Yusril => Edit Pemasukan => 20 => Sukses Edit
+
+[2022-17-07:14:30:14] Nama Admin : Yusril => Edit Pemasukan => 8 => Sukses Edit
+
+[2022-17-07:14:42:33] Nama Admin : Yusril => Edit Hutang => 3 => Sukses 
+
+[2022-17-07:14:45:29] Nama Admin : Yusril => Edit Hutang => 3 => Sukses 
+
+[2022-17-07:14:45:42] Nama Admin : Yusril => Edit Hutang => 3 => Sukses 
+
+[2022-17-07:14:46:07] Nama Admin : Yusril => Edit Hutang => 5 => Sukses 
+
+[2022-17-07:14:47:42] Nama Admin : Yusril => Edit Hutang => 5 => Sukses 
+
+[2022-17-07:14:48:04] Nama Admin : Yusril => Edit Hutang => 5 => Sukses 
+
+[2022-17-07:14:48:20] Nama Admin : Yusril => Edit Hutang => 5 => Sukses 
+
+[2022-17-07:14:48:33] Nama Admin : Yusril => Edit Hutang => 5 => Sukses 
+
+[2022-17-07:15:32:06] Nama Admin : Yusril => Edit Hutang => 5 => Sukses 
+
+[2022-17-07:15:32:33] Nama Admin : Yusril => Edit Hutang => 3 => Sukses 
+
+[2022-17-07:15:32:59] Nama Admin : Yusril => Edit Hutang => 4 => Sukses 
+
+[2022-17-07:15:41:50] Nama Admin : Yusril => Edit Hutang => 15 => Sukses 
+
+[2022-17-07:15:41:59] Nama Admin : Yusril => Edit Hutang => 14 => Sukses 
+
+[2022-17-07:15:55:00] Nama Admin : Yanto => Edit Hutang => 1 => Sukses 
+
+[2022-17-07:15:55:12] Nama Admin : Yanto => Edit Hutang => 8 => Sukses 
+
+[2022-17-07:15:55:31] Nama Admin : Yanto => Edit Hutang => 11 => Sukses 
+
+[2022-19-07:03:25:09] Nama Admin : Yanto => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-19-07:03:25:30] Nama Admin : Yanto => Edit Pemasukan => 10 => Sukses Edit
+
+[2022-19-07:03:25:41] Nama Admin : Yanto => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-19-07:03:25:57] Nama Admin : Yanto => Edit Pemasukan => 10 => Sukses Edit
+
+[2022-19-07:03:26:15] Nama Admin : Yanto => Edit Pemasukan => 8 => Sukses Edit
+
+[2022-19-07:03:26:28] Nama Admin : Yanto => Edit Pemasukan => 8 => Sukses Edit
+
+[2022-19-07:03:27:18] Nama Admin : Yanto => Edit Pemasukan => 20 => Sukses Edit
+
+[2022-19-07:03:27:38] Nama Admin : Yanto => Edit Pemasukan => 19 => Sukses Edit
+
+[2022-19-07:03:28:13] Nama Admin : Yanto => Edit Pemasukan => 19 => Sukses Edit
+
+[2022-19-07:03:28:43] Nama Admin : Yanto => Edit Pemasukan => 9 => Sukses Edit
+
+[2022-19-07:03:29:10] Nama Admin : Yanto => Edit Pemasukan => 12 => Sukses Edit
+
+[2022-19-07:03:29:34] Nama Admin : Yanto => Edit Pemasukan => 19 => Sukses Edit
+
+[2022-19-07:03:29:56] Nama Admin : Yanto => Edit Pemasukan => 8 => Sukses Edit
+
+[2022-19-07:03:30:16] Nama Admin : Yanto => Edit Pemasukan => 12 => Sukses Edit
+
+[2022-19-07:03:30:26] Nama Admin : Yanto => Edit Pemasukan => 12 => Sukses Edit
+
+[2022-19-07:03:30:38] Nama Admin : Yanto => Edit Pemasukan => 13 => Sukses Edit
+
+[2022-19-07:03:30:58] Nama Admin : Yanto => Edit Pemasukan => 13 => Sukses Edit
+
+[2022-19-07:03:32:03] Nama Admin : Yanto => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-19-07:03:32:39] Nama Admin : Yanto => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-19-07:03:34:27] Nama Admin : Yanto => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-19-07:03:34:42] Nama Admin : Yanto => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-19-07:03:35:05] Nama Admin : Yanto => Edit Pemasukan => 21 => Sukses Edit
+
+[2022-19-07:04:15:47] Nama Admin : Yusril => Edit Hutang => 4 => Sukses 
+
+[2022-19-07:04:15:56] Nama Admin : Yusril => Edit Hutang => 1 => Sukses 
+
+[2022-19-07:04:16:05] Nama Admin : Yusril => Edit Hutang => 1 => Sukses 
+
